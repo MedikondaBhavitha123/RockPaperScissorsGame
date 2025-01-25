@@ -1,0 +1,1 @@
+A two-player game where players choose Rock, Paper, or Scissors, designed using Java. The goal of the game is to beat the opponent by following classic game rules of Rock beating Scissors, Scissors beating Paper, and Paper beating Rock.
